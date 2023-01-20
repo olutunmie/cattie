@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6dca2e12-891d-4a48-8a1d-a4ceaa7bf055"
+      }
+    },
+    "owner": "olutunmie"
   }
 }
